@@ -35,12 +35,6 @@ Offering a user-friendly dashboard, intuitive reports, and an array of features,
 - **Send product promotions to Telegram:**  Engage with your customers directly by sending promotional messages via Telegram.
 
 
-## Demo
-
-You can check the demo here: 
-[https://test.hotechserver.com](https://test.hotechserver.com)
-
-
 ## Login with the following credentials
     -   Email: `admin@gmail.com`
     -   Password: `password`
